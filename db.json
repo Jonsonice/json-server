@@ -1,0 +1,61 @@
+{
+	"users":[
+		{
+			"name": "Jon",
+			"phone": "8888",
+			"email": "Jon@qq.com",
+			"id": "1",
+			"age": 29,
+			"companyId": 1
+		},
+		{
+			"name": "Car",
+			"phone": "1228",
+			"email": "Car@qq.com",
+			"id": "2",
+			"age": 20,
+			"companyId": 2
+		},
+		{
+			"name": "Dee",
+			"phone": "33388",
+			"email": "Dee@qq.com",
+			"id": "3",
+			"age": 40,
+			"companyId": 3
+		},
+		{
+			"name": "Hao",
+			"phone": "66666",
+			"email": "Hao@qq.com",
+			"id": "4",
+			"age": 27,
+			"companyId": 1
+		},
+		{
+			"name": "Ben",
+			"phone": "883434",
+			"email": "Ben@qq.com",
+			"id": "5",
+			"age": 22,
+			"companyId": 2
+		}
+	],
+	"companies":[
+		{
+			"id": 1,
+			"name": "Apple",
+			"description": "APP is good!"
+		},
+		{
+			"id": 2,
+			"name": "Banana",
+			"description": "Banana is good!"
+		},
+		{
+			"id": 3,
+			"name": "Cat",
+			"description": "Cat is good!"
+		}
+	]
+}
